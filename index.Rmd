@@ -148,7 +148,7 @@ The **log file.txt** is important if you encounter an error. This document can b
 
 * R (64-bit)
 
-* 20 GB of free disk space to allocate
+* 30 GB of free disk space to allocate
 
 * Internet connection (preferably high speed fibre optic)
 
